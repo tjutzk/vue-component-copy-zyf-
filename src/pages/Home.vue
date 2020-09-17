@@ -1,7 +1,7 @@
 <template>
     <div>
-        主页
-        <Popup></Popup>
+        <h1>lm组件库</h1>
+        <router-link to="/lmInput">1.lmInput</router-link>
     </div>
 </template>
 <script>
